@@ -9,4 +9,6 @@
 6. configure your github account --> git congih --global user.email "mudhirajmahi72@gmail.com"
 7. git branch -M main -->push to main branch
 8. git remote add origin https://github.com/Mahi161217/github_ci_cd_practice.git
-9. git push -u origin main
+9. git push -u origin main -->to push the code to remote repository
+10. sign and autherised your account
+"""
